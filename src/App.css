@@ -55,4 +55,7 @@
         margin-left: 10rem;
         margin-top: 7rem;
     }
+    .form__button, .form__input{
+        font-size: 10px;
+    }
 }
